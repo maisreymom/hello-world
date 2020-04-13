@@ -1,3 +1,4 @@
 target/
 hello-world.iml
 .idea/
+src/main/java/avro/
