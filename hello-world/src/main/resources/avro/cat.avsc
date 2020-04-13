@@ -1,0 +1,8 @@
+{"namespace": "avro",
+ "type": "record",
+ "name": "Cat",
+ "fields": [
+     {"name": "catId", "type": "string", "avro.java.string":"String"},
+     {"name": "animal", "type": "avro.Animal"}
+ ]
+}
